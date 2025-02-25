@@ -40,7 +40,3 @@ Then run command:
 ` php exp.php`
 
 The exploit will be generated in `spec.json` and automatically validated.
-
-## Citation
-
-TODO
