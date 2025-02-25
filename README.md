@@ -1,12 +1,12 @@
 # Artemis: Toward Accurate Detection of Server-Side Request Forgeries through LLM-Assisted Inter-Procedural Path-Sensitive Taint Analysis
 
-This repository contains the source code and new SSRF reports the paper: `Artemis: Toward Accurate Detection of Server-Side Request Forgeries through LLM-Assisted Inter-Procedural Path-Sensitive Taint Analysis` by  Yuchen Ji, Ting Dai, Zhichao Zhou, Yutian Tang and Jingzhu He. 
+This repository contains the source code of Artemis and new SSRF reports from the paper: `Artemis: Toward Accurate Detection of Server-Side Request Forgeries through LLM-Assisted Inter-Procedural Path-Sensitive Taint Analysis` by  Yuchen Ji, Ting Dai, Zhichao Zhou, Yutian Tang and Jingzhu He. 
 
 ## Setup Environment
 
 Artemis requires:
 
-1. PHP 8.1 and php-ast extension. To install php-ast extension, follow the instruction at https://github.com/nikic/php-ast
+1. PHP>=7.4 and php-ast extension. To install php-ast extension, follow the instruction at https://github.com/nikic/php-ast
 2. Java21
 3. Joern (https://github.com/joernio/joern)
 4. OSTRICH (https://github.com/uuverifiers/ostrich)
