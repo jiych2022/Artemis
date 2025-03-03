@@ -40,3 +40,17 @@ Then run command:
 ` php exp.php`
 
 The exploit will be generated in `spec.json` and automatically validated.
+
+## Citation
+If you use Artemis in your research, please cite the paper as follows.
+```
+@article{ji2025artemis,
+  title={Artemis: Toward Accurate Detection of Server-Side Request Forgeries through LLM-Assisted Inter-procedural Path-Sensitive Taint Analysis},
+  author={Yuchen Ji and Ting Dai and Zhichao Zhou and Yutian Tang and Jingzhu He},
+  journal={Proceedings of the ACM on Programming Languages},
+  volume={9},
+  number={OOPSLA1},
+  year={2025},
+  publisher={ACM New York, NY, USA}
+}
+```
